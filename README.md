@@ -11,7 +11,7 @@ HEICConverter is a simple PowerShell Script to Automagically Convert HEIC Files 
 4. If prompted, click **YES** to run as Administrator
 5. After running, the script should start automatically on boot—manual execution shouldn't be necessary
 
-**Important:** Do **NOT** rename `HEICConverter.ps1`, as this **WILL** cause issues.
+**Important:** Do **NOT** rename `HEICConverter.ps1`, as this **WILL** cause issues
 
 ## Steps to Uninstall
 
