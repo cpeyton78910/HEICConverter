@@ -10,6 +10,7 @@ This program is designed so you only have to run it once, then it will start aut
    - Any HEIC files in the same folder as this file will automatically be converted to a JPEG
 3. Right-click `HEICConverter.ps1` and select **Run with PowerShell**
 4. If prompted, click **YES** to run as Administrator
+   - The program will now install ImageMagick (required for file conversion) and configure startup on boot
 5. After running once, the script will automatically launch on startup—no need for manual execution.
    - If the program closes immediately and does not appear to work, follow the steps in the 'Handling OS Security' section
 
