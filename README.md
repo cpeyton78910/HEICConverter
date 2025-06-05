@@ -1,6 +1,7 @@
 # HEICConverter
 
-HEICConverter is a simple PowerShell Script to Automagically Convert HEIC Files to JPEG within the same folder as the file.
+HEICConverter is a simple PowerShell Script to Automagically Convert HEIC Files to JPEG within the same folder as the file.  
+This program is designed so you only have to run it once, then it will start automatically on boot.
 
 ## Steps to Set Up
 
